@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\информатика\RatingVolunteer\bin\Debug\RatingVolunteer.exe.config
+C:\Users\admin\Desktop\информатика\RatingVolunteer\bin\Debug\RatingVolunteer.exe
+C:\Users\admin\Desktop\информатика\RatingVolunteer\bin\Debug\RatingVolunteer.pdb
+C:\Users\admin\Desktop\информатика\RatingVolunteer\obj\Debug\RatingVolunteer.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\информатика\RatingVolunteer\obj\Debug\RatingVolunteer.FormMain.resources
+C:\Users\admin\Desktop\информатика\RatingVolunteer\obj\Debug\RatingVolunteer.Properties.Resources.resources
+C:\Users\admin\Desktop\информатика\RatingVolunteer\obj\Debug\RatingVolunteer.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\информатика\RatingVolunteer\obj\Debug\RatingVolunteer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\информатика\RatingVolunteer\obj\Debug\RatingVolunteer.exe
+C:\Users\admin\Desktop\информатика\RatingVolunteer\obj\Debug\RatingVolunteer.pdb
